@@ -1,0 +1,104 @@
+canonical_identifier: bkk:krp/KR3ej053/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej053/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 小兒痘疹方論
+  identifiers:
+    krp: KR3ej053
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04360
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej053.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej053_000-jc.yaml, hash: 'sha256:60b2fdf38b90314e98153abfe66650d01902a606ad32794d41dbeea6500e5c0f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej053_000-jc.markers.yaml, hash: 'sha256:8631a49a7e6e50adcf70ee258d6dcb90fbad35cf6f5f53f72b26f6730a7515f4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej053_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 141
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej053_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 143
+  label: 論痘疹受病之由
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej053_jc_000-d4.h1s1
+    span:
+    - body
+    - 143
+    - 6650
+  label: 論痘疹治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej053_jc_000-d5.h1s1
+    span:
+    - body
+    - 6650
+    - 10287
+  label: 類集痘疹已效名方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej053_jc_000-d6.h1s1
+    span:
+    - body
+    - 10287
+    - 15905
+  label: 附方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej053_jc_000-d7.h1s1
+    span:
+    - body
+    - 15905
+    - 16025
+  label: 製附子法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej053_jc_000-d8.h1s1
+    span:
+    - body
+    - 16025
+    - 16087
+  label: 丹溪先生解瘡毒藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej053_jc_000-d9.h1s1
+    span:
+    - body
+    - 16087
+    - 16124
+  label: 稀痘方
+  type: section
+  level: 1
+hash: sha256:21cb24904c91eb5a7c7792c58d292102ba77e8c2183f0d35934e73001f3e1a9c
